@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "content": "Angular Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisl nec sem blandit, sed tempor ante euismod. Vestibulum sed dignissim tellus. Sed vel nunc purus. Sed quis tortor accumsan, eleifend augue sit amet, condimentum leo. Nulla consectetur viverra suscipit. Phasellus gravida sapien erat. Vestibulum pharetra suscipit augue, nec feugiat metus pretium in. Duis nec interdum arcu, sed lacinia felis. Curabitur sodales et elit nec faucibus. Sed sit amet egestas leo, sit amet venenatis dui.",
+            "title": "Angular Course",
+            "price": 69
+        },
+        {
+            "id": 2,
+            "content": "Bootstrap   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisl nec sem blandit, sed tempor ante euismod. Vestibulum sed dignissim tellus. Sed vel nunc purus. Sed quis tortor accumsan, eleifend augue sit amet, condimentum leo. Nulla consectetur viverra suscipit. Phasellus gravida sapien erat. Vestibulum pharetra suscipit augue, nec feugiat metus pretium in. Duis nec interdum arcu, sed lacinia felis. Curabitur sodales et elit nec faucibus. Sed sit amet egestas leo, sit amet venenatis dui.",
+            "title": "Bootstrap Course",
+            "price": 69
+        },
+        {
+            "id": 3,
+            "content": "C Programlam  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisl nec sem blandit, sed tempor ante euismod. Vestibulum sed dignissim tellus. Sed vel nunc purus. Sed quis tortor accumsan, eleifend augue sit amet, condimentum leo. Nulla consectetur viverra suscipit. Phasellus gravida sapien erat. Vestibulum pharetra suscipit augue, nec feugiat metus pretium in. Duis nec interdum arcu, sed lacinia felis. Curabitur sodales et elit nec faucibus. Sed sit amet egestas leo, sit amet venenatis dui.",
+            "title": "C Programming",
+            "price": 69
+        },
+        {
+            "id": 4,
+            "content": "Frontend   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisl nec sem blandit, sed tempor ante euismod. Vestibulum sed dignissim tellus. Sed vel nunc purus. Sed quis tortor accumsan, eleifend augue sit amet, condimentum leo. Nulla consectetur viverra suscipit. Phasellus gravida sapien erat. Vestibulum pharetra suscipit augue, nec feugiat metus pretium in. Duis nec interdum arcu, sed lacinia felis. Curabitur sodales et elit nec faucibus. Sed sit amet egestas leo, sit amet venenatis dui.",
+            "title": "Frontend Course",
+            "price": 69
+        },
+        {
+            "id": 5,
+            "content": "HTML KURSU   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisl nec sem blandit, sed tempor ante euismod. Vestibulum sed dignissim tellus. Sed vel nunc purus. Sed quis tortor accumsan, eleifend augue sit amet, condimentum leo. Nulla consectetur viverra suscipit. Phasellus gravida sapien erat. Vestibulum pharetra suscipit augue, nec feugiat metus pretium in. Duis nec interdum arcu, sed lacinia felis. Curabitur sodales et elit nec faucibus. Sed sit amet egestas leo, sit amet venenatis dui.",
+            "title": "HTML Course",
+            "price": 0
+        }
+    ]
+}
